@@ -4,7 +4,7 @@ Hi! I'm Rakhi. I'm solving 100 DSA problems in 21 days and sharing everything on
 
 ## ✅ Day 1 Progress
 
-Solved 5 beginner-friendly problems:
+Solved 42 beginner-friendly problems:
 - 🔁 Reverse String
 - ✂️ Remove Duplicates
 - 🔍 Palindrome Check
