@@ -4,12 +4,12 @@ Hi! I'm Rakhi. I'm solving 100 DSA problems in 21 days and sharing everything on
 
 ## ✅ Day 1 Progress
 
-Solved 5 beginner-friendly problems:
-- 🔁 Reverse String
-- ✂️ Remove Duplicates
-- 🔍 Palindrome Check
-- ➕ Merge Sorted Arrays
-- 📈 Max Element
+Solved 42 beginner-friendly problems:
+- 🔁 Reverse String  solved 7 problem with different way
+- ✂️ Remove Duplicates solved 10 problem with different way
+- 🔍 Palindrome Check solved 10 problem with different way
+- ➕ Merge Sorted Arrays solved 5 problem with different way
+- 📈 Max Element solved 10 problem with different way
 
 📌 GitHub Code: See [Day1 Folder](./Day1)
 
