@@ -35,6 +35,7 @@ def reverse_string(s):
 
 print(reverse_string("hello"))  # Output: 'olleh'
 
+
 # 6. Using Stack (List as Stack)
 s = "hello"
 stack = list(s)
